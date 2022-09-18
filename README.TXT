@@ -1,12 +1,6 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all they need to know. The comments should usually include at least:
-------------------------------------------------------------------------
-
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
+PROJECT TITLE: Savings_Project_1
+PURPOSE OF PROJECT: Simple Java program that uses arithmetic and the import scanner to show users their monthly savings and disposable income based on their user inputted savings goal. 
+VERSION or DATE:09/18/2022
 HOW TO START THIS PROJECT:
-AUTHORS:
+AUTHORS: Fizza
 USER INSTRUCTIONS:
